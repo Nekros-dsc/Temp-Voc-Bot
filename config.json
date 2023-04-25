@@ -1,0 +1,7 @@
+{
+    "token": "Put-Token-Here",
+    "Prefix": "Prefix",
+    "ChannelId" : "Chanel-Id",
+    "CategoryId" : "Category-Id",
+    "OwnersId": ["Owner-Id"]
+}
