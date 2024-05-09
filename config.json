@@ -1,0 +1,8 @@
+{
+    "token": "Put-Token-Here",
+    "prefix": "!",
+    "color": "#2b2d31",
+    "ChannelId" : "Channel-Id",
+    "CategoryId" : "Category-Id",
+    "OwnersId": ["276705058370879489"]
+}

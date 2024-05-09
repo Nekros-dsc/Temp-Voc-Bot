@@ -1,0 +1,8 @@
+{
+  "name": "temporary-voice-bot",
+  "author": "nekrxs.",
+  "dependencies": {
+    "discord.js": "^14.15.2",
+    "pro.db": "^3.0.8"
+  }
+}
